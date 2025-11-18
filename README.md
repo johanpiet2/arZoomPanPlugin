@@ -4,6 +4,10 @@
 
 The arZoomPan plugin provides advanced document viewing capabilities for AtoM (Access to Memory), including zoom, pan, and rotate functionality similar to IIIF viewers. It supports images, PDFs, and text documents.
 
+<p align="center">
+  <img src="doc/ZoomPan.png" width="500">
+</p>
+
 ## Features
 
 - **Image Viewer**: Deep zoom with tile-based loading for large images
